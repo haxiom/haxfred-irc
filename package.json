@@ -11,10 +11,9 @@
     "irc",
     "haxfred"
   ],
-  "bin": {
-  },
   "dependencies": {
-    "haxfred": "haxiom/haxfred#development"
+    "haxfred": "haxiom/haxfred#development",
+    "irc": "~0.3.6"
   },
   "engines": {
     "node": "*"
