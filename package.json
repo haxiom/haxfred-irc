@@ -11,6 +11,8 @@
     "irc",
     "haxfred"
   ],
+  "bin": {
+  },
   "dependencies": {
     "haxfred": "haxiom/haxfred#development",
     "irc": ""
